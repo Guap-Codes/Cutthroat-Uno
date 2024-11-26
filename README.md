@@ -1,4 +1,4 @@
-# Cutthroat UNO Smart Contract 🎴
+# Cutthroat UNO (Smart Contract) 🎴
 
 A fully on-chain implementation of the classic UNO card game with a competitive twist, built using Solidity and Chainlink VRF for verifiable randomness.
 
