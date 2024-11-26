@@ -1,0 +1,23 @@
+# Build and test artifacts
+cache/
+out/
+broadcast/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Development tools
+node_modules/
+coverage/
+coverage.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
